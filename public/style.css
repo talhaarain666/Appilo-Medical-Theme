@@ -1,0 +1,101 @@
+.pink {
+    color: #e12454;
+}
+
+.darkblue {
+    color: #223645;
+}
+
+
+.alllinks {
+   color:  #70808c;
+   text-decoration: none;
+
+}
+
+.hoverpink:hover {
+    color: #e12454;
+}
+
+.hoverbluebg:hover {
+background-color: #223645;
+}
+
+.fsizemain {
+    font-size: 4rem;
+    padding-top:30% ;
+}
+
+.hoverbordertop:hover {
+border-top: 3px solid #e12454;
+/* transition: 0.5s; */
+}
+
+
+.bglightblue {
+    background-color: #f1f7fb;
+}
+
+
+.alllinks:hover {
+    color: #e12454;
+}
+
+.bgred {
+    background-color: #e12454;
+}
+
+.tick {
+    color: #e12454;
+    
+}
+.tickli {
+    list-style-type: none;
+    font-size: 0.8rem;
+
+}
+.txtsize14 {
+    font-size: 0.8rem;
+    line-height: 1.857;
+}
+
+.bgimg {
+    background-image: url(images/b-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    /* min-height: 100vh; */
+    position: relative;
+    
+    
+  
+}
+
+.allinputs {
+    outline: none;
+}
+
+.bgblue {
+    background-color: #223645;
+}
+
+.labimg {
+    position: relative;
+    background-image: url(images/ft1.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 23rem;
+
+
+    
+}
+
+.chck {
+    background-color: rgb(34 53 68 / 75%);
+    min-height: 23rem;
+}
+
+.ulstylenone  {
+    list-style-type: none;
+}
+
+
